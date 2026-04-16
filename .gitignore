@@ -34,3 +34,18 @@ policy_uploads/
 # Temp
 *.tmp
 .cache/
+
+# Standardized additions (appended by project setup)
+ENV/
+.env.local
+.env.*.local
+node_modules/
+.next/
+dist/
+build/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+*.egg-info/
