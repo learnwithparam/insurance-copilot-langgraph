@@ -86,8 +86,8 @@ make clean          Remove venv and cache
 make clean-all      Clean everything including Docker volumes
 ```
 
-## About
+## Learn more
 
-Created by [learnwithparam.com](https://learnwithparam.com) - Learn AI Engineering through hands-on projects.
-
-Explore more courses at [learnwithparam.com/courses](https://learnwithparam.com/courses).
+- Start the course: [learnwithparam.com/courses/supervisor-multi-agent-langgraph](https://www.learnwithparam.com/courses/supervisor-multi-agent-langgraph)
+- AI Bootcamp for Software Engineers: [learnwithparam.com/ai-bootcamp](https://www.learnwithparam.com/ai-bootcamp)
+- All courses: [learnwithparam.com/courses](https://www.learnwithparam.com/courses)
